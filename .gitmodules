@@ -1,0 +1,3 @@
+[submodule "et3-tasks-todolist"]
+	path = et3-tasks-todolist
+	url = https://github.com/fouadkachlan/et3-tasks-todolist.git
